@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **React and React Native**
 - 👨‍💻 All of my projects are available at [https://github.com/osmanndnc](https://github.com/osmanndnc)
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me **osmannuri.dnc@gmail.com**
 
 ### Connect with me:
 
