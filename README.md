@@ -2,7 +2,7 @@
 
 ### I am a developer
 
-- 🌱 I'm currently learning **React and React Native**
+- 🌱 I'm currently learning **React, React Native, Node.js**
 - 👨‍💻 All of my projects are available at [https://github.com/osmanndnc](https://github.com/osmanndnc)
 - 📫 How to reach me **osmannuri.dnc@gmail.com**
 
